@@ -1,0 +1,18 @@
+input{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1rem;
+    background-color: #2a2d4d;
+    border: 1px solid #3c4066;
+    color: #ccc;
+    gap: 0.5rem;
+    padding: 0.5rem;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+label{
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    font-weight: bold;
+}
